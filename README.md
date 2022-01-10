@@ -41,4 +41,5 @@ For PyPoll:
    -The winner of the election based on popular vote.
 
 
+
 CSV files for both PyBank named budget_data.csv and election_data.csv are both found in folder name named Resources and analysis for both PyBank and PyPoll are found in their respective folders.
