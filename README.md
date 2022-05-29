@@ -1,4 +1,4 @@
-# Python_Challenge_HM3
+# Financial data Analysis 
 
 The aim of this project is to develop python scripts:
     
@@ -6,7 +6,7 @@ The aim of this project is to develop python scripts:
                                                  
     2.To help rural town modernize its vote counting process/system given dataset named election_data.csv
     
-# Python scripts analyze the records to calculate each of the following:
+## Python scripts analyze the records to calculate each of the following:
 
 For PyBank:
 
