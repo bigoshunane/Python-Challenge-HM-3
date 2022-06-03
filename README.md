@@ -5,8 +5,7 @@ Whether financial, political, or social -- data's true power lies in its ability
 
 ## Objective
 
-The aim of this project is to develop python scripts:
-    
+The aim of this project is to develop python scripts:  
 -  To analyze financial records of a bank given financial dataset named budget_data.csv.
 -  To help rural town modernize its vote counting process/system given dataset named election_data.csv
     
